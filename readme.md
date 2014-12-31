@@ -12,3 +12,5 @@
 - As a user, I want to create a user account, so that I don't have to type my personal info next time
 - As a user, I want to change my personal info (email address, billing/shipping address)
 - As a user, I want to change my password, so that my account remains secure
+- As an admin, I want to manage the list of movies available for purchase
+- As an admin, I want to get a report of movies that have been purchased
